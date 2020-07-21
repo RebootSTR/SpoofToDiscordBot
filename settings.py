@@ -19,6 +19,6 @@ vk_table = {
 }
 
 avatars = {
-    p[0]: "url_to_picture"
+    p[0]: "url_to_picture",
     "Unknown": "picture_for_unknown_user"
 }
